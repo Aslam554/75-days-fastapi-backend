@@ -33,5 +33,12 @@ post = [
     "title": "Building Projects Publicly",
     "content": "Sharing projects and learning publicly helps attract opportunities and improves consistency.",
     "date_posted": "2026-05-12"
+  },
+  {
+    "id": 6,
+    "author": "Samaya",
+    "title": "Building Projects Publicly",
+    "content": "Sharing projects and learning publicly helps attract opportunities and improves consistency.",
+    "date_posted": "2026-05-12"
   }
 ]

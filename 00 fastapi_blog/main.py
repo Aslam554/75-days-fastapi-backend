@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from data import post
+from data import post  
 from fastapi.responses import HTMLResponse
 
 
