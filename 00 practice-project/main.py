@@ -23,7 +23,7 @@ def home(request: Request):
 
 
 #get all students details
-@app.get("/api/students",response_class=HTMLResponse)
+@app.get("/api/students",response_class=HTMLResponse,include_scheme=False)
 def get_students():
     data = ""
     for i in student:
